@@ -1,6 +1,6 @@
 # SPEC 01 — Implementación de las vistas Stitch de OpenDaycare
 
-> **Status:** Draft
+> **Status:** Approved
 > **Depends on:** Ninguna
 > **Date:** 2026-11-03
 > **Objective:** Convertir los siete mockups HTML de `referencias` en una experiencia navegable de OpenDaycare usando rutas y componentes React reutilizables.
