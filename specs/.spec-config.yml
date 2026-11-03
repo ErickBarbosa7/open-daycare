@@ -1,0 +1,4 @@
+# spec workflow configuration
+#
+# AutoCreateBranch — controls whether /spec-impl creates the git branch automatically.
+AutoCreateBranch: true
